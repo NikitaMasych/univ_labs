@@ -29,4 +29,3 @@ void arr_output(int *a, size_t wk_len){
     if (wk_len % 5 != 0) std::cout << '\n';
     std::cout << "\n*-------------------------------------***-------------------------------------*\n\n";
 }
-//try out review
