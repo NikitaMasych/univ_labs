@@ -1,1 +1,1 @@
-Hi! Here I made Lab 2.1 according to the formal criteria written in the .doc file description. I have chosen 9th and 95-th variant of array processing. Besides, here is old_lab_2.1 made for the pre-modified specification.
+Hi! Here I made Lab 2.1 according to the formal criteria written in the .doc file description. I have chosen 9th and 95-th variant of array processing. Besides, here is the old_lab_2.1 made for the pre-modified specification.
