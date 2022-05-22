@@ -114,5 +114,6 @@ int main()
     example2.outputPDNF();
     booleanFunction::SDNF example3(example2);
     example3.outputSDNF();
+    system("pause");
     return 0;
 }
